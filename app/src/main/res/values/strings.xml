@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="google_maps_key">Your Api Key</string>
+    <string name="noInternet">No internet  available!</string>
+</resources>
